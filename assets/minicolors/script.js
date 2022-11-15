@@ -1,0 +1,1 @@
+$('.minicolors').minicolors();
